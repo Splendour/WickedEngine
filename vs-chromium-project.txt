@@ -1,0 +1,8 @@
+[SearchableFiles.include]
+*.cpp
+*.h
+*.hlsl
+*.hlsli
+
+[SearchableFiles.ignore]
+
